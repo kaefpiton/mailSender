@@ -1,0 +1,12 @@
+{
+      "From": {
+        "email":    "dimafed7@gmail.com",
+        "password": "TransformerS"
+      },
+
+      "SMTP": {
+        "Host":   "smtp.gmail.com",
+        "Port":   "587"
+      }
+
+}
